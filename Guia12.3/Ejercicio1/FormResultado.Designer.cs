@@ -79,7 +79,7 @@
             Margin = new Padding(4);
             Name = "FormResultado";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Resultados";
+            Text = "Mostrar Resultados";
             groupBox3.ResumeLayout(false);
             groupBox3.PerformLayout();
             ResumeLayout(false);
